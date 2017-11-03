@@ -18,7 +18,7 @@ _fzf_complete_docker() {
             return
         ;;
         exec|rm)
-            _fzf_complete_docker_exec "$@"
+            _fzf_complete_docker_container "$@"
             return
         ;;
         save|load|push|pull|tag|rmi)
