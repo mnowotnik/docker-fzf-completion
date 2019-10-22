@@ -1,6 +1,10 @@
 # docker-fzf-completion
 Extends default docker completion with fzf
 
+# DEPRECATED
+
+Use [extra-fzf-completions](https://github.com/mnowotnik/extra-fzf-completions) instead.
+
 <img src="https://raw.githubusercontent.com/Mike-Now/img/master/docker-fzf-completion.gif" width=640>
 
 ## Installation
