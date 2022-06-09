@@ -1,4 +1,6 @@
-# docker-fzf-completion
+# docker-fzf-completion 
+> DEPRECATED. Use [fzshell](https://github.com/mnowotnik/fzshell) instead.
+
 Extends default docker completion with fzf
 
 <img src="https://raw.githubusercontent.com/Mike-Now/img/master/docker-fzf-completion.gif" width=640>
